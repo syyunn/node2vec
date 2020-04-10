@@ -7,3 +7,7 @@ https://arxiv.org/abs/1403.6652
 
 ## Tut
 http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part1-embeddings.pdf
+
+
+## Heterogenous
+https://arxiv.org/pdf/2003.01332.pdf
